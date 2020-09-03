@@ -18,18 +18,18 @@
                     <tbody>
                         <tr>
                             <td class="product-col">
-                                <img src="img/product/product-1.jpg" alt="">
+                                <img src="img/product/images (18).jpg" alt="">
                                 <div class="p-title">
-                                    <h5>Blue Dotted Shirt</h5>
+                                    <h5>Kids Mask</h5>
                                 </div>
                             </td>
-                            <td class="price-col">$29</td>
+                            <td class="price-col">R0</td>
                             <td class="quantity-col">
                                 <div class="pro-qty">
                                     <input type="text" value="1">
                                 </div>
                             </td>
-                            <td class="total">$29</td>
+                            <td class="total">R0</td>
                             <td class="product-close">x</td>
                         </tr>
                     </tbody>
@@ -66,7 +66,7 @@
                                 <div class="cs-item">
                                     <input type="radio" name="cs" id="two">
                                     <label for="two">
-                                        Next Day delievery $10
+                                        Next Day delievery 
                                     </label>
                                 </div>
                                 <div class="cs-item last">
@@ -90,10 +90,10 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td class="total">$29</td>
-                                            <td class="sub-total">$29</td>
-                                            <td class="shipping">$10</td>
-                                            <td class="total-cart-p">$39</td>
+                                            <td class="total">R0</td>
+                                            <td class="sub-total">R0</td>
+                                            <td class="shipping">R0</td>
+                                            <td class="total-cart-p">R0</td>
                                         </tr>
                                     </tbody>
                                 </table>

@@ -54,7 +54,7 @@
                             <div class="portfolio-border clearfix">0
                                 <div class="item_info">
                                     <span>Mockups in seconds</span>
-                                    <em>CASUAL</em>
+                                    <em>Casual</em>
                                 </div>
                             </div>
                         </div>
@@ -99,6 +99,7 @@
                     <a href="Nano Range.aspx" class="portfolio_item">
                         <img src="img/portfolio/download (9).jpg" alt="image" class="img-responsive" />
                         <div class="portfolio_item_hover">
+
                             <div class="portfolio-border clearfix">
                                 <div class="item_info">
                                     <span>Held by hands</span>
@@ -250,7 +251,7 @@
                 <div class="col-lg-4 offset-lg-1">
                     <div class="lookbok-left">
                         <div class="section-title">
-                            <h2>2019 <br />#lookbook</h2>
+                            <h2>2020 <br />MASKInc.</h2>
                         </div>
                         <p>
                             Fusce urna quam, euismod sit amet mollis quis, vestibulum quis velit. Vestibulum malesuada
@@ -267,7 +268,7 @@
                 <div class="col-lg-5 offset-lg-1">
                     <div class="lookbok-pic">
                         <img src="img/lookbok.jpg" alt="">
-                        <div class="pic-text">fashion</div>
+                        <div class="pic-text">MASKS</div>
                     </div>
                 </div>
             </div>

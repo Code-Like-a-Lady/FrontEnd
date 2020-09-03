@@ -3,86 +3,8 @@
   
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-      <!-- Page Preloder -->
-    <div id="preloder">
-        <div class="loader"></div>
-    </div>
+   
     
-    <!-- Search model -->
-	<div class="search-model">
-		<div class="h-100 d-flex align-items-center justify-content-center">
-			<div class="search-close-switch">+</div>
-			<form class="search-model-form">
-				<input type="text" id="search-input" placeholder="Search here.....">
-			</form>
-		</div>
-	</div>
-	<!-- Search model end -->
-
-    <!-- Header Section Begin -->
-    <header class="header-section">
-        <div class="container-fluid">
-            <div class="inner-header">
-                <div class="logo">
-                    <a href="./index.html"><img src="img/logo.png" alt=""></a>
-                </div>
-                <div class="header-right">
-                    <img src="img/icons/search.png" alt="" class="search-trigger">
-                    <img src="img/icons/man.png" alt="">
-                    <a href="#">
-                        <img src="img/icons/bag.png" alt="">
-                        <span>2</span>
-                    </a>
-                </div>
-                <div class="user-access">
-                    <a href="#">Register</a>
-                    <a href="#" class="in">Sign in</a>
-                </div>
-                <nav class="main-menu mobile-menu">
-                    <ul>
-                        <li><a href="./index.html">Home</a></li>
-                        <li><a href="./categories.html">Shop</a>
-                            <ul class="sub-menu">
-                                <li><a href="product-page.html">Product Page</a></li>
-                                <li><a href="shopping-cart.html">Shopping Card</a></li>
-                                <li><a href="check-out.html">Check out</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="./product-page.html">About</a></li>
-                        <li><a href="./check-out.html">Blog</a></li>
-                        <li><a href="./contact.html">Contact</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-    </header>
-    <!-- Header Info Begin -->
-    <div class="header-info">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="header-item">
-                        <img src="img/icons/delivery.png" alt="">
-                        <p>Free shipping on orders over $30 in USA</p>
-                    </div>
-                </div>
-                <div class="col-md-4 text-left text-lg-center">
-                    <div class="header-item">
-                        <img src="img/icons/voucher.png" alt="">
-                        <p>20% Student Discount</p>
-                    </div>
-                </div>
-                <div class="col-md-4 text-left text-xl-right">
-                    <div class="header-item">
-                    <img src="img/icons/sales.png" alt="">
-                    <p>30% off on dresses. Use code: 30OFF</p>
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Header Info End -->
-    <!-- Header End -->
 
     <!-- Page Add Section Begin -->
     <section class="page-add">
@@ -115,10 +37,10 @@
                                 <p class="in-name">Name*</p>
                             </div>
                             <div class="col-lg-5">
-                                <input type="text" placeholder="First Name">
+                                <input type="text" placeholder="Company Name ">
                             </div>
                             <div class="col-lg-5">
-                                <input type="text" placeholder="Last Name">
+                                <input type="text" placeholder="Company Code">
                             </div>
                         </div>
                         <div class="row">
@@ -135,8 +57,8 @@
                                 <p class="in-name">Country*</p>
                             </div>
                             <div class="col-lg-10">
-                                <select class="cart-select country-usa">
-                                    <option>USA</option>
+                                <select class="cart-select country-sa">
+                                    <option>SA</option>
                                 </select>
                             </div>
                         </div>
@@ -185,11 +107,11 @@
                         <div class="order-table">
                             <div class="cart-item">
                                 <span>Product</span>
-                                <p class="product-name">Blue Dotted Shirt</p>
+                                <p class="product-name">Kids Masks</p>
                             </div>
                             <div class="cart-item">
                                 <span>Price</span>
-                                <p>$29</p>
+                                <p>R0</p>
                             </div>
                             <div class="cart-item">
                                 <span>Quantity</span>
@@ -197,12 +119,12 @@
                             </div>
                             <div class="cart-item">
                                 <span>Shipping</span>
-                                <p>$10</p>
+                                <p>R0</p>
                             </div>
 
                             <div class="cart-total">
                                 <span>Total</span>
-                                <p>$39</p>
+                                <p>R0</p>
                             </div>
                         </div>
                     </div>

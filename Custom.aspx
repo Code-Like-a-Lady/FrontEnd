@@ -5,21 +5,21 @@
     <section class="product-page">
         <div class="container">
             <div class="product-control">
-                <a href="#">Previous</a>
-                <a href="#">Next</a>
+                <a href="Nano Range.aspx">Previous</a>
+                <a href="CheckOut.aspx">Next</a>
             </div>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="product-slider owl-carousel">
                         <div class="product-img">
                             <figure>
-                                <img src="img/product/product-1.jpg" alt="">
+                                <img src="img/products/image.jpg" alt="">
                                 <div class="p-status">new</div>
                             </figure>
                         </div>
                         <div class="product-img">
                             <figure>
-                                <img src="img/product/product-1.jpg" alt="">
+                                <img src="img/products/image.jpg" alt="">
                                 <div class="p-status">new</div>
                             </figure>
                         </div>
@@ -28,9 +28,9 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="product-content">
-                        <h2>Dotted Blue Shirt</h2>
+                        <h2>Customize mask </h2>
                         <div class="pc-meta">
-                            <h5>$22.90</h5>
+                            <h5>R150/50 mask</h5>
                             <div class="rating">
                                 <i class="fa fa-star"></i>
                                 <i class="fa fa-star"></i>
@@ -43,8 +43,8 @@
                             labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
                             viverra maecenas accumsan lacus vel facilisis.</p>
                         <ul class="tags">
-                            <li><span>Category :</span> Men’s Wear</li>
-                            <li><span>Tags :</span> man, shirt, dotted, elegant, cool</li>
+                            <li><span>Category :</span> Customize</li>
+                            <li><span>Tags :</span> Creativity</li>
                         </ul>
                         <div class="product-quantity">
                             <div class="pro-qty">
@@ -74,56 +74,56 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-3 col-sm-6 mix all dresses bags">
                     <div class="single-product-item">
                         <figure>
-                            <a href="#"><img src="img/products/img-1.jpg" alt=""></a>
-                            <div class="p-status">new</div>
-                        </figure>
-                        <div class="product-text">
-                            <h6>Green Dress with details</h6>
-                            <p>$22.90</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
-                    <div class="single-product-item">
-                        <figure>
-                            <a href="#"><img src="img/products/img-2.jpg" alt=""></a>
+                            <a href="CheckOut.aspx"><img src="img/products/images (6).jpg" alt=""></a>
                             <div class="p-status sale">sale</div>
                         </figure>
                         <div class="product-text">
-                            <h6>Yellow Maxi Dress</h6>
-                            <p>$25.90</p>
+                            <h6>Plain Masks</h6>
+                            <p>R50/box</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+              <div class="row">
+                <div class="col-lg-3 col-sm-6 mix all shoes accesories">
                     <div class="single-product-item">
                         <figure>
-                            <a href="#"><img src="img/products/img-3.jpg" alt=""></a>
+                            <a href="CheckOut.aspx"><img src="img/products/images (19).jpg" alt=""></a>
                             <div class="p-status">new</div>
                         </figure>
                         <div class="product-text">
-                            <h6>One piece bodysuit</h6>
-                            <p>$19.90</p>
+                            <h6>Kids Disney Masks</h6>
+                            <p>R150/box</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6 mix all shoes accesories">
                     <div class="single-product-item">
                         <figure>
-                            <a href="#"><img src="img/products/img-4.jpg" alt=""></a>
+                            <a href="CheckOut.aspx"><img src="img/products/images (24).jpg" alt=""></a>
                             <div class="p-status popular">popular</div>
                         </figure>
                         <div class="product-text">
-                            <h6>Blue Dress with details</h6>
-                            <p>$35.50</p>
+                            <h6>Nano Range Formal black </h6>
+                            <p>R170/10masks</p>
                         </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-lg-3 col-sm-6 mix all dresses shoes">
+                    <div class="single-product-item">
+                        <figure>
+                            <a href="CheckOut.aspx#"><img src="img/products/images (28).jpg" alt=""></a>
+                            <div class="p-status">new</div>
+                        </figure>
+                        <div class="product-text">
+                            <h6>Wedding sets</h6>
+                            <p>R150</p>
+                        </div>
+                    </div>
+                </div>
+             </div>
         </div>
     </section>
     <!-- Related Product Section End -->

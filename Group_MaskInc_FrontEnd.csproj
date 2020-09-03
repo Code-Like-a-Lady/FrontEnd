@@ -150,9 +150,11 @@
     <Content Include="assets\img\lookbok.jpg" />
     <Content Include="assets\img\mastercard.jpg" />
     <Content Include="assets\img\paypal.jpg" />
+    <Content Include="assets\img\products\71w7fjqRQWL._AC_SY355_.jpg" />
     <Content Include="assets\img\products\download %285%29.jpg" />
     <Content Include="assets\img\products\download %288%29.jpg" />
     <Content Include="assets\img\products\Free_Sample_By_Wix.jpg" />
+    <Content Include="assets\img\products\image.jpg" />
     <Content Include="assets\img\products\images %2819%29.jpg" />
     <Content Include="assets\img\products\images %2824%29.jpg" />
     <Content Include="assets\img\products\images %2828%29.jpg" />
@@ -174,6 +176,7 @@
     <Content Include="assets\img\products\img-7.jpg" />
     <Content Include="assets\img\products\img-8.jpg" />
     <Content Include="assets\img\products\img-9.jpg" />
+    <Content Include="assets\img\product\images %2818%29.jpg" />
     <Content Include="assets\img\product\product-1.jpg" />
     <Content Include="assets\img\slider-1.jpg" />
     <Content Include="assets\img\slider-2.jpg" />
