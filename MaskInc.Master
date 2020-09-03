@@ -49,7 +49,7 @@
     <header class="header-section">
             <div class="inner-header">
                 <div class="logo">
-                    <a href="./MaskInc.Master"><img src="assets/img/Free_Sample_By_Wix.jpg" alt=""></a>
+                    <a href="ShoppingCart.aspx"><img src="assets/img/Free_Sample_By_Wix.jpg" alt=""></a>
                 </div>
                 <div class="header-right">
                     <img src="img/icons/search.png" alt="" class="search-trigger">
@@ -65,21 +65,20 @@
                 </div>
                 <nav class="main-menu mobile-menu">
                     <ul>
-                        <li><a class="active" href="./MaskInc.Master">Home</a></li>
+                        <li><a class="active" href="Home.aspx">Home</a></li>
                         <li><a href="./categories.html">Categories</a>
                             <ul class="sub-menu">
                                 <li><a href="Kids.aspx">Kids</a></li>
-                                <li><a href="Casual.aspx">Casual</a></li>
-                                <li><a href="Nano Range.aspx">Formal</a></li>
-                                <li><a href="Customize.aspx">Customize</a></li>
-                                 <li><a href="Cultural.aspx">Customize</a></li>
+                                <li><a href="Nano Range.aspx">Nano Range</a></li>
+                                <li><a href="Custom.aspx">Custom</a></li>
+                                 <li><a href="Cultural.aspx">Cultural</a></li>
                                 <li><a href="ShoppingCart.aspx">Shopping Cart</a></li>0
                                 <li><a href="CheckOut.aspx">Check out</a></li>
                             </ul>
                         </li>
                         <li><a href="#">About</a></li>
                         <li><a href="CheckOut.aspx">CheckOut</a></li>
-                        <li><a href="./contact.html">Contact</a></li>
+                        <li><a href="#">Contact</a></li>
                     </ul>
                 </nav>
             </div>
